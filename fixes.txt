@@ -2,3 +2,5 @@ i am fixed file which will be used to fix the bug
 add some another fixes
 one more bug detected and fixed
 fourth bug fixed
+
+pinkmode- add some fixes
