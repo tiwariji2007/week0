@@ -6,3 +6,5 @@ fourth bug fixed
 pinkmode- add some fixes
 
 another fixes in pinkmode
+
+add another fixes for purple mode
