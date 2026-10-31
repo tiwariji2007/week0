@@ -4,3 +4,5 @@ one more bug detected and fixed
 fourth bug fixed
 
 pinkmode- add some fixes
+
+another fixes in pinkmode
