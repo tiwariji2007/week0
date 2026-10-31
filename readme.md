@@ -1,0 +1,1 @@
+A quiet morning in a bustling small shop filled with cinnamon and rain set the scene for a diverse group of visitors. From a student writing by the window to an owner adjusting a fading radio, the space slowly filled with busy tables, laptops, and conversations by noon
